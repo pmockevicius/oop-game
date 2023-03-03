@@ -1,0 +1,1 @@
+Started by creating a player class and adding move left and right Functionality
